@@ -1,0 +1,14 @@
+body{
+  background-color: #7FFFD3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input{
+  height:40px;
+  width: 200px;
+  /* margin-top: 250px; */
+}
+button{
+  height:40px;
+}
